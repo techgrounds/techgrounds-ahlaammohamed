@@ -1,0 +1,33 @@
+# Instellen SSH-verbinding met virtuele machine
+
+## Samenvatting
+Een **SSH-verbinding** (Secure Shell) is een beveiligde methode om op afstand toegang te krijgen tot een virtuele machine (VM) of een ander systeem. Met SSH kun je commando's uitvoeren en bestanden overdragen via een versleutelde verbinding.
+
+## Key-terms
+Hieronder beschrijf ik de belangrijkste termen die ik heb geleerd.
+
+**VM:** Een virtuele machine (VM) is een gevirtualiseerde computeromgeving die draait binnen een fysieke computer (de host).
+
+
+**Permissies:**
+Permissies in Linux verwijzen naar de regels die bepalen wie welke acties mag uitvoeren met betrekking tot bestanden en mappen op het systeem.
+
+## Opdracht
+In deze opdracht laat ik zien hoe ik een SSH-verbinding maak met een virtuele machine. Verder geef ik ook permissies. Door middel van de *whoami commando* laat ik zien dat deze verbinding is gelukt.
+
+### Gebruikte bronnen
+https://www.ssh.com/academy/ssh/command 
+
+
+
+### Ervaren problemen
+Geen. 
+
+### Resultaat
+![prnser](../00_includes/SSH_Permissies.png)
+
+
+
+
+
+
