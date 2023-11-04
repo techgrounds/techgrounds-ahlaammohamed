@@ -19,7 +19,7 @@ Statische adressen: Een statisch IP-adres is een vast IP-adres dat handmatig wor
  Dynamische adressen: Een dynamisch IP-adres wordt automatisch toegewezen aan een apparaat door een DHCP-server wanneer dat apparaat verbinding maakt met een netwerk.
 
 ## Opdracht
-1) Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi. Zijn de adressen hetzelfde of niet? Leg uit waarom.
+1. Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi. Zijn de adressen hetzelfde of niet? Leg uit waarom.
 
 - De adressen zijn hetzelfde. Dit komt doordat alle verkeer van apparaten binnen je lokale netwerk via de router naar het internet wordt geleid, en de router gebruikt zijn eigen openbare IP-adres bij het verzenden van dat verkeer.
 
