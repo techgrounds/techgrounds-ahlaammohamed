@@ -1,0 +1,32 @@
+# Subnetting
+## Samenvatting
+Subnetting: Subnetting verdeelt het netwerk in kleinere delen (subnetten). 
+
+Het IP-adres bestaat dus eigenlijk uit drie componenten: het netwerkdeel, het subnetdeel en ten slotte het hostdeel.
+
+Een subnetmasker geeft gewoon aan hoeveel bits worden “geleend” van de hostcomponent van een IP-adres.
+
+
+## Opdracht:
+Hieronder laat ik zien hoe ik een netwerkarchitectuur maak die voldoet aan de volgende eisen:
+- 1 subnet dat alleen van binnen het LAN bereikbaar is. Dit subnet moet minimaal 15 hosts kunnen plaatsen.
+- 1 subnet dat internet toegang heeft via een router met NAT-functionaliteit. Dit subnet moet minimaal 30 hosts kunnen plaatsen (de 30 hosts is exclusief de router).
+- 1 subnet met een network gateway naar het internet. Dit subnet moet minimaal 5 hosts kunnen plaatsen (de 5 hosts is exclusief de internet gateway).
+
+![Alt text](image.png)
+
+
+
+
+
+## Gebruikte bronnen:
+https://www.techopedia.com/nl/8-stappen-om-ip-subnetten-te-begrijpen
+
+https://www.youtube.com/watch?v=BWZ-MHIhqjM
+
+https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=27&cip=10.0.0.0&ctype=ipv4&x=Calculate
+
+https://www.youtube.com/watch?v=_IOZ8_cPgu8
+
+In deze configuratie zou je een subnetmasker van 255.255.255.240 kunnen gebruiken, wat betekent dat je 16 IP-adressen hebt (10.0.0.0 tot 10.0.0.15), waarvan 14 bruikbaar zijn voor apparaten (aangezien het eerste en laatste adres meestal worden gereserveerd voor netwerk- en broadcastadressen).
+
