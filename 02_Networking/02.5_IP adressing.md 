@@ -1,5 +1,7 @@
 # IP adressing
-Een IP adres is een logisch adres dat aan een netwerkapparaat toegewezen kan worden. De netwerkapparaten kunnen dan vervolgens met dit IP adres elkaar vinden op het netwerk.
+
+## Samenvatting
+Een IP adres is een logisch adres dat aan een netwerkapparaat toegewezen kan worden. De netwerkapparaten kunnen dan vervolgens met dit IP-adres elkaar vinden op het netwerk.
 
 ## Key-terms
 IPv4: IPv4 maakt gebruik van 32-bits adresformaten, wat resulteert in ongeveer 4,3 miljard unieke IP-adressen.
