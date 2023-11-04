@@ -1,0 +1,47 @@
+# IP adressing
+Een IP adres is een logisch adres dat aan een netwerkapparaat toegewezen kan worden. De netwerkapparaten kunnen dan vervolgens met dit IP adres elkaar vinden op het netwerk.
+
+## Key-terms
+IPv4: IPv4 maakt gebruik van 32-bits adresformaten, wat resulteert in ongeveer 4,3 miljard unieke IP-adressen.
+
+IPv6: IPv6 is de opvolger van IPv4 en maakt gebruik van 128-bits adressen.
+
+Privé IP: Een privé IP-adres is een adres dat wordt gebruikt binnen een lokaal netwerk om apparaten binnen dat netwerk te identificeren en communicatie tussen hen mogelijk te maken. Ze zijn vaak toegewezen door routers of DHCP-servers in thuis- of bedrijfsnetwerken.
+
+Publieke IP: Een openbaar IP-adres is een uniek adres dat aan een apparaat of netwerk wordt toegewezen om het te identificeren op het openbare internet.
+
+NAT: Het is een techniek die wordt gebruikt in computernetwerken, met name in routers, om het verkeer tussen apparaten in een lokaal netwerk en externe netwerken zoals het internet mogelijk te maken.
+
+Statische adressen: Een statisch IP-adres is een vast IP-adres dat handmatig wordt toegewezen aan een apparaat en blijft onveranderd, tenzij het opzettelijk wordt gewijzigd.
+
+ Dynamische adressen: Een dynamisch IP-adres wordt automatisch toegewezen aan een apparaat door een DHCP-server wanneer dat apparaat verbinding maakt met een netwerk.
+
+## Opdracht
+1) Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi. Zijn de adressen hetzelfde of niet? Leg uit waarom.
+
+- De adressen zijn hetzelfde. Dit komt doordat alle verkeer van apparaten binnen je lokale netwerk via de router naar het internet wordt geleid, en de router gebruikt zijn eigen openbare IP-adres bij het verzenden van dat verkeer.
+
+2. Ontdek wat je privé IP adres is van je laptop en mobiel op wifi.
+Zijn de adressen hetzelfde of niet? Leg uit waarom.
+- De adressen zijn niet hetzelfde. Als twee apparaten hetzelfde IP-adres in hetzelfde netwerk proberen te gebruiken, kan dit leiden tot een IP-conflict en verbindingsproblemen veroorzaken. Om dit te voorkomen, moet de router ervoor zorgen dat elk apparaat een uniek IP-adres krijgt. Dit wordt meestal automatisch beheerd door de DHCP-server in de router.
+
+3. Verander het privé IP adres van je mobiel naar dat van je laptop. Wat gebeurt er dan?
+
+- Verlies van connectiviteit/ netwerkstoring.
+
+4. Probeer het privé IP adres van je mobiel te veranderen naar een adres buiten je netwerk. Wat gebeurt er dan?
+Netwerk storing.
+
+
+
+
+## Gebruikte bronnen
+
+- https://kinsta.com/nl/blog/ipv4-vs-ipv6#:~:text=Wat%20is%20het%20verschil%20tussen%20IPv4%20en%20IPv6%3F,althans%20voor%20de%20nabije%20toekomst)
+
+
+## Ervaren problemen
+Niet van toepassing.
+
+## Resultaat
+Ik heb kennis opgedaan over IP-adressen en mijn eigen lokale netwerk.
