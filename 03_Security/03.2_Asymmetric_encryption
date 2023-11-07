@@ -1,0 +1,14 @@
+# Asymmetric encryption
+
+## Samenvatting
+
+## Opdracht
+Gebruik asymmetrische encryptie om een geheim bericht in een openbare Slack-chat te delen.
+
+Uitleg:
+Ik heb de public key van Stephan gekregen en heb die van mijzelf ook gedeeld. Ik heb met zijn public key een encrypted text gemaakt en deze encrypted text heb ik via de Slack met Stephan gedeeld. Vervolgens heb ik met mijn eigen private key zijn encrypted text ontcijferd. 
+
+
+## Gebruikte bronnen
+- https://www.devglan.com/online-tools/rsa-encryption-decryption
+
