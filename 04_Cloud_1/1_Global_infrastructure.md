@@ -8,8 +8,8 @@ AWS has a global infrastructure made up of the following components:
 - Edge Locations
 
 
-## Excersise
-`Explain what region, AWS Availability Zone, Edge location are?`
+## Exercise
+`1. Explain what region, AWS Availability Zone, Edge location are?`
 
 **Regions**: A region refers to a geographical area where a cloud provider, has established and operates a cluster of data centers. 
 
@@ -19,7 +19,7 @@ Within each AWS region, there are multiple availability zones.
 
 **Edge location**: Edge Locations are strategically located data centers that are distributed worldwide to bring content and services closer to end-users. They act as caching points for content, reducing latency and improving the overall performance of web applications and services.
 
-`Why would you choose one region over another? (e.g. eu-central-1 (Frankfurt) over us-west-2 (Oregon))`
+`2. Why would you choose one region over another? (e.g. eu-central-1 (Frankfurt) over us-west-2 (Oregon))`
 
 The best region for your AWS deployment depends on your specific use case, considering factors like performance, compliance, cost, and high availability. 
 
