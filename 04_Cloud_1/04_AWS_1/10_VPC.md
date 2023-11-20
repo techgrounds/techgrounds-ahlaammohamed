@@ -106,14 +106,16 @@ If you look at the main route table for Lab VPC you see that it has an entry for
 ![PrnScr](/00_includes/04_AWS1/17_Network_Security_Group.png)
 
 **Exercise 4:** I launched an EC2 instance with the requirements that were given. 
+
 ![PrnScr](/00_includes/04_AWS1/18_IPv4_DNS.png)
 
 And then I connected to my server using the public IPv4 DNS name by opening the Public IPv4 DNS server adress.
+
 ![PrnScr](/00_includes/04_AWS1/19_Load_test_page.png)
 This brings me to this page.
 
 ## Issues
-When attempting to connect to my server, the webpage failed to load.  After reviewing the configuration settings for both HTTP and HTTPS on my server. I found that I needed to change the URL fromthe URL from `https` to `http` to successfully access the page.
+When attempting to connect to my server, the webpage failed to load.  After reviewing the configuration settings for both HTTP and HTTPS on my server. I found that I needed to change the URL from `https` to `http` to successfully access the page.
 
 ## Sources
 - https://www.youtube.com/watch?v=AKQ7FdEuWz4
