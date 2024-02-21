@@ -12,6 +12,17 @@ This is my daily log where I document my daily activities and project work. Belo
 
 
 # Week 2
+## the 19th of January 2024
+### Daily Report
+I created my second VPC today and had to do some troubleshooting.
+### Obstacles
+I 
+## the 18th of January 2024
+### Daily Report
+I started working on my IaC today. I set up a VPC with its subnet. 
+## the 17th of January 2024
+### Daily Report
+I worked again on my design today and finished it.
 ## the 16th of January 2024
 ### Daily Report
 I worked on outlining a design for my infrastructure today. Additionally, I structured my GitHub further.

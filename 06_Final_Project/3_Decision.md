@@ -32,11 +32,11 @@ RPO 24 uur, RTO 1 uur.
 || **As a team, we want to have a clear understanding of the requirements of the application.** |
 |---|
 
-**Epic**
+
 
 **Exploration**
 
-**Description**
+
 
 You've already received a lot of information. Some requirements are already mentioned in this document, but this list may be incomplete or unclear. It's important to address all uncertainties before undertaking substantial work.
 
@@ -44,3 +44,10 @@ You've already received a lot of information. Some requirements are already ment
 
 A bulleted description of all requirements.
 
+Colons can be used to align columns.
+
+|**Epic**     |**Description**| Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
